@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ \"$fileName\" -o cpp_runner.exe && .\\cpp_runner.exe"
+    }
+}
